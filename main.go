@@ -12,7 +12,7 @@ import (
 func main() {
 
 	os.Setenv("PHOTOS_API_URL","https://jsonplaceholder.typicode.com/photos/")
-	os.Setenv("SLACK_API_URL","https://hooks.slack.com/services/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")
+	os.Setenv("SLACK_API_URL","here your slack api url")
 	var option int
 	
 	fmt.Println("Menu :  ")
