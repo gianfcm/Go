@@ -1,4 +1,4 @@
 # Go
 Backend Go connection to Slack
 
-URL_SLACK = "YOUR API URL FOR SLACK"
+Change your URL_SLACK on main.go to URL_SLACK = "YOUR API URL FOR SLACK"
